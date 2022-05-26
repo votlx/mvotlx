@@ -4,17 +4,17 @@ services:
     build: .
     environment:
       HNDLR: 
-      SESSION_NAME: $SESSION_NAME
-      API_ID: $API_ID  # defaults to None
-      API_HASH: $API_HASH  # defaults to None
-      SUDO_USERS: $SUDO_USERS  # defaults to None
-      UPDATES_CHANNEL: $UPDATES_CHANNEL  # defaults to None
-      BOT_TOKEN: $BOT_TOKEN  # defaults to None
-      BOT_USERNAME: $BOT_USERNAME  # defaults to None
-      ASSISTANT_NAME: $ASSISTANT_NAME  # defaults to None
-      GROUP_SUPPORT: $GROUP_SUPPORT  # defaults to None
-      BOT_NAME: $BOT_NAME  # defaults to None
-      OWNER_NAME: $OWNER_NAME  # defaults to None
-      ALIVE_NAME: $ALIVE_NAME  # defaults to None
+      SESSION_NAME: BACDRDlN1-P4M0MeSAhzud97kQIn-nN0953gTLN3K8aF3pr3IYHaoGGDytAs5p89PkbtMI2-uCsCVJ7vbonZ9HM6mHzgcnYzNHcP1zS6j_bnk7JP_Or9v5By7H_saxknurydNFf8J9mAMNNKfU2gEa5TS25bItqIi5UJpGtWGOVrlF71YRqn_dmBvpHHHuY5UIDG_dsHbTZVqQS07kd32xhrYtBA1-IT3ANDSebjx9Jlpl8w3g2dDdVBiBYqaXMms733qb7GfwTmtmkH5-YUebe_lJvabvbu5WesDY5bSajy26gJhg5GCwCxNwBJRAYsPjmYOQ_90xHi-eNTSnpktgkxAAAAATw87wQA
+      API_ID: 11384401
+      API_HASH:  3e2deff2dbb31cffa32c2660444b9dcb
+      SUDO_USERS: 5305593604
+      UPDATES_CHANNEL: T_8_T_t
+      BOT_TOKEN: 5329139582:AAGyY5qe1OkRYQjxd4I3KNvIFg2pL9_MI4k
+      BOT_USERNAME: fikuhejdwhgfbot
+      ASSISTANT_NAME: votlx
+      GROUP_SUPPORT: V_O_T_l
+      BOT_NAME: fikuhejdwhgfbot
+      OWNER_NAME: votlx
+      ALIVE_NAME: votlx
       DEV_PHOTO: $DEV_PHOTO  # defaults to None
       BOT_PHOTO: $BOT_PHOTO  # defaults to None
